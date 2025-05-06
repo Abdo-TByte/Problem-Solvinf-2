@@ -1,2 +1,2 @@
-# Problem-Solvinf-2
+# Problem-Solving-2
 Print digits of a number reversed 
